@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm sravana B</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [AWS](https://aws.amazon.com/console/)
-
 - 🌱 I’m currently learning **meachinelearning**
-
-- 👯 I’m looking to collaborate on [cyberspace orgnisation](https://cyberspaceintel.org/)
 
 - 🤝 I’m looking for help with **online could developing team**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ saravana-b-62284a328](www.linkedin.com/in/ saravana-b-62284a328)
+- 👨‍💻 All of my projects are available at [(https://www.linkedin.com/in/saravanabofficial/)](https://www.linkedin.com/in/saravanabofficial/)
 
 - 💬 Ask me about **Fullstack,cloud service**
 
